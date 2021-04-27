@@ -55,7 +55,7 @@
     "@types/yargs": "^12.0.0",
     "change-case": "^4.1.1",
     "command-exists": "^1.2.9",
-    "config": "^3.3.0",
+    "config": "^3.3.6",
     "dotenv": "^8.2.0",
     "flatiron": "^0.4.2",
     "flatiron-cli-config": "^0.1.5",
