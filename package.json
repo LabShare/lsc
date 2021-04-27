@@ -52,7 +52,7 @@
     "@types/q": "^1.0.5",
     "@types/semver": "^5.4.0",
     "@types/winston": "^2.3.6",
-    "@types/yargs": "^12.0.0",
+    "@types/yargs": "^12.0.19",
     "change-case": "^4.1.1",
     "command-exists": "^1.2.9",
     "config": "^3.3.0",
